@@ -1,2 +1,4 @@
-# shadowtest-argon-vuforia
-a Glitch test program for shadows and argon
+Argon + AFrame + Vuforia Demo
+========================================
+
+A simple example that puts some Aframe content on a Vuforia target in Argon
