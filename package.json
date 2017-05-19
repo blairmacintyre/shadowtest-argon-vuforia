@@ -1,16 +1,16 @@
 {
-  "name": "argon-apainter",
+  "name": "shadow1-argon-vuforia",
   "version": "0.0.1",
-  "description": "Simple Argon + APainter sample",
+  "description": "Simple Argon + Vuforia sample",
   "repository": {
-    "url": "https://glitch.com/edit/#!/argon-apainter"
+    "url": "https://glitch.com/edit/#!/shadow1-argon-vuforia"
   },
   "license": "MIT",
   "keywords": [
     "argon",
     "node",
     "aframe", 
-    "apainter",
+    "vuforia",
     "glitch",
     "express"
   ],
